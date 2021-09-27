@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "commonjs",
+    "incremental": true,
+    "composite": true,
+
+    "strict": true,
+
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "sourceMap": true
+  }
+}

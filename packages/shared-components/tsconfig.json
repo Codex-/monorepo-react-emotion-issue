@@ -1,0 +1,14 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "outDir": "dist",
+    "rootDir": "src",
+
+    "types": ["@emotion/react/types/css-prop"],
+
+    "jsx": "react-jsx"
+  },
+  "include": ["src/**/*"]
+}

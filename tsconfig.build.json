@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/app" },
+    { "path": "packages/bespoke-components" },
+    { "path": "packages/shared-components" }
+  ]
+}
